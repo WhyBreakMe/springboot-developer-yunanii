@@ -21,8 +21,8 @@ jwt:
       client:
         registration:
           google:
-            client-id: 146454582471-1ntraqrifdl78stbqf8n1p3cplvf9vra.apps.googleusercontent.com
-            client-secret: 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
+            client-id: 1 ... .com
+            client-secret: G ... d
             scope:
               -email
               -profile
