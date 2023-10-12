@@ -13,8 +13,8 @@ spring:
       enabled: true
 
 jwt:
-  issuer: jines8115@snu.ac.kr
-  secret_key: study-springboot
+  issuer: j ... r
+  secret_key: s ... t
 
   security:
     oauth2:
